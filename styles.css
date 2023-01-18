@@ -61,7 +61,7 @@ main .tall {
   }
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 630px) {
   main {
     grid-template-columns: 1fr;
     max-width: 400px;
